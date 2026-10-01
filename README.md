@@ -1,2 +1,2 @@
 # estudos-cloud
-Repositório para organizar meus estudos de cloud, incluindo scripts, anotações em Markdown e exemplos com Docker, AWS e Terraform.
+Cloud Computing Student | Azure | Linux | Python | Microsoft Learn | Estudos para AZ-900 e AZ-104 | Projetos práticos em administração de nuvem
